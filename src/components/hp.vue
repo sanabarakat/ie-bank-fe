@@ -1,10 +1,11 @@
 <template>
     <div>
       <h1>IE Bank</h1>
-      <p>Your Trusted Banking Partner</p>
+      <p>The Best Bank</p>
       <img src="download.jpg" alt="IE Tower">
       <br>
       <button>View Accounts</button>
+      <button>Skull</button>
     </div>
   </template>
   
