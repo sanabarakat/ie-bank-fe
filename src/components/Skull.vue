@@ -6,6 +6,11 @@
         <button type="button" class="btn btn-secondary">
             Skull button
         </button>
+        <br>
+        <br>
+        <router-link to="/" class="btn btn-success btn-sm">Go back to Home Page</router-link>
+
+          <br />
 
     </div>
 </template>
